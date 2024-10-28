@@ -1,5 +1,6 @@
 # form-CadEcommerce-
- 
+ Projeto criado como parte avaliativa da disciplina de Fundamentos de desenvolvimento ministrada pelo professor Leonardo Rocha.
+tem menu de contexto
 ## Índice
 
 * [Descrição](#descrição)
