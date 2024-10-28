@@ -1,6 +1,8 @@
 # form-CadEcommerce-
+
  Projeto criado como parte avaliativa da disciplina de Fundamentos de desenvolvimento ministrada pelo professor Leonardo Rocha.
 tem menu de contexto
+
 ## Índice
 
 * [Descrição](#descrição)
@@ -11,14 +13,11 @@ tem menu de contexto
 
 * [Autor(a)](#autora)
 
-
-
 ### Descrição
 O projeto consiste em criarmos um "site", simulando uma tela de cadastro para realizar uma compra
 (Site e-commerce).
  
 #### Tabela
-
 
 Veja a imagem da primeira parte do codigo que consiste no inicio do site onde tem que inserir seu nome, telefone, e-mail, cpf e criar uma senha e avançar:
 
@@ -41,9 +40,6 @@ Veja a imagem da estilizaçao do projeto, consiste nas cor e tamanho do nosso ca
 ![ Resultado final do projeto](img/index.PNG)
 ![ Resultado final do projeto](img/endereco.PNG)
 ![ Resultado final do projeto](img/finalr.PNG)
-
-
-
 
 ## Tecnologias
 
