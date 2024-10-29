@@ -38,7 +38,7 @@ Veja a imagem da estilizaçao do projeto, consiste nas cor e tamanho do nosso ca
 ### Resultado do projeto
 
 ![ Resultado final do projeto](img/index.PNG)
-![ Resultado final do projeto](img/Capturar.PNG)
+![ Resultado final do projeto](img/endereco.PNG)
 ![ Resultado final do projeto](img/finalr.PNG)
 
 ## Tecnologias
