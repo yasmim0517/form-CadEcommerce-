@@ -1,7 +1,7 @@
 # form-CadEcommerce-
 
  Projeto criado como parte avaliativa da disciplina de Fundamentos de desenvolvimento ministrada pelo professor Leonardo Rocha.
-tem menu de contexto. Esse projeto foi feito com base nos projeto de [Formulário de Contato](https://github.com/yasmim0517/form-contato) e [Formulário de Login](https://github.com/yasmim0517/projeto-login).
+Esse projeto foi feito com base nos projeto de [Formulário de Contato](https://github.com/yasmim0517/form-contato) e [Formulário de Login](https://github.com/yasmim0517/projeto-login).
 
 ## Índice
 
@@ -25,7 +25,7 @@ Veja a imagem da primeira parte do codigo que consiste no inicio do site onde te
 
 Veja a imagem da segunda parte do codigo que consiste em inserir seu estado, cidade e endereço e avançar! essa e a segunda etapa para concluir seu cadastro no site:
 
-![ imagem dos codigos](img/segunda%20parte.PNG)
+![ imagem dos codigos](img/lugar.PNG)
 
 Veja a imagem da ultima parte que consiste em se seu cadastro foi conluido no site, ali te parabenizam!
 
@@ -38,7 +38,7 @@ Veja a imagem da estilizaçao do projeto, consiste nas cor e tamanho do nosso ca
 ### Resultado do projeto
 
 ![ Resultado final do projeto](img/index.PNG)
-![ Resultado final do projeto](img/endereco.PNG)
+![ Resultado final do projeto](img/Capturar.PNG)
 ![ Resultado final do projeto](img/finalr.PNG)
 
 ## Tecnologias
